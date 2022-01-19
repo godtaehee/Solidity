@@ -1,5 +1,26 @@
 # Solidity
 
+- [The difference of virtual and override](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 더 고민해봐야하는것들
 - 4단계 Chapter 2 질문하기
 - EtherScan에 지금 장부?가 공개되어있는거같은데 블록체인의 거래가 일어나면 거래정보가 블록체인 네트워크를 통해 전 세계에 모두 공개가 된다는데 그 역할을 하는게 EtherScan인가?
