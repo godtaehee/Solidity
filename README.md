@@ -1,6 +1,7 @@
 # Solidity
 
-- [The difference of virtual and override](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
+- [The difference between virtual and override](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
+- [The difference between `address` and `address payable`](https://ethereum.stackexchange.com/questions/64108/whats-the-difference-between-address-and-address-payable)
 
 
 
