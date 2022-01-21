@@ -3,8 +3,7 @@
 - [The difference between virtual and override](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
 - [The difference between `address` and `address payable`](https://ethereum.stackexchange.com/questions/64108/whats-the-difference-between-address-and-address-payable)
 - [Solidity Tutorial: all about Bytes](https://jeancvllr.medium.com/solidity-tutorial-all-about-bytes-9d88fdb22676)
-
-
+- [Solidity Latest Version Docs](https://docs.soliditylang.org/en/latest/index.html)
 
 
 
