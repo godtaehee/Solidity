@@ -10,7 +10,7 @@
 - [Receive Ether Function](https://docs.soliditylang.org/en/v0.8.11/contracts.html#receive-ether-function)
 - [Fall back Function](https://docs.soliditylang.org/en/v0.8.11/contracts.html#fallback-function)
 - [Solidity Assembly & ABI Encoding](https://medium.com/onther-tech/solidity-assembly-abi-encoding-db8f79d1c1a1)
-
+- [Hardhat console.log](https://github.com/nomiclabs/hardhat/blob/master/packages/hardhat-core/console.sol)
 
 
 
