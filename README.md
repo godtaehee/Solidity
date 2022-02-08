@@ -12,7 +12,7 @@
 - [Solidity Assembly & ABI Encoding](https://medium.com/onther-tech/solidity-assembly-abi-encoding-db8f79d1c1a1)
 - [Hardhat console.log](https://github.com/nomiclabs/hardhat/blob/master/packages/hardhat-core/console.sol)
 - [ERC20 and Function Selector in Solidity](https://taeyonghwang.github.io/ethereum/ethereum-erc20-function-selector/#:~:text=%EC%97%AC%EA%B8%B0%EC%84%9C%20function%20selector%EB%9E%80%20%ED%95%A8%EC%88%98,%EC%BD%94%EB%93%9C%EB%8F%84%20%EC%83%9D%EC%84%B1%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4.)
-
+- [Stack is too deep error](https://medium.com/1milliondevs/compilererror-stack-too-deep-try-removing-local-variables-solved-a6bcecc16231)
 
 
 
